@@ -8,6 +8,25 @@ layout: default
 
 Programmer, Teacher, Archaeologist, Scientist. I like to make the Past meet the Future by researching and tinkering with anything technological. From old-school computers, to motorcycles, to Raspberry Pi's.
 
+## Education
+
+`2000-2007`
+**BA-MA Classical and Mediterranean Archaeology**, *Leiden University*
+
+`2009-2012`
+**PhD Classical and Mediterranean Archaeology**, *Leuven University*
+
+`2020`
+**IT-Traineeship Java Full Stack Development**, *Qien B.V.*
+
+## Certification
+
+`2020`
+Scrum PSM-1
+
+`2020`
+Oracle Certified Associate
+
 ## Occupation
 
 `2021 - Now`
@@ -31,7 +50,7 @@ Junior Teacher Programming and Information Technology at CodeCafé
 - *Collecting data-sets (on Roman Villages) and designing and executing statistical analyses*
 
 `2017-2019`
-**Archaeological FieldLeader and Research Coordinator**, *KU Leuven, Researchgroup*, Leuven
+**Archaeological Field Leader and Research Coordinator**, *KU Leuven, Researchgroup*, Leuven
 - *Spatial Analyses in ArcGIS / QGIS using Python queries*
 
 `2013-2017`
@@ -118,18 +137,10 @@ Junior Teacher Programming and Information Technology at CodeCafé
  </tr>
 </table>
 
-## Certification
-
-`2020`
-Scrum PSM-1
-
-`2020`
-Oracle Certified Associate
-
 ## Publications (selection)
 
 `2014`
-Willet, R. Experiments with Diachronic Data Distribution Methods Applied to Eastern Sigillata A in the Eastern Mediterranean." HEROM. Journal on Hellenistic and Roman MAterial Culture 3: 39-69.
+Willet, R. Experiments with Diachronic Data Distribution Methods Applied to Eastern Sigillata A in the Eastern Mediterranean." HEROM. Journal on Hellenistic and Roman Material Culture 3: 39-69.
 
 `2016`
 Ottoni, C., Rasteiro, R., Willet, R. et al. "Comparing maternal genetic variation across two millenia reveals the demographic history of an ancient human population in southwest Turkey." Royal Society Open Science 3.
@@ -141,6 +152,15 @@ Willet, R., The Geography of Roman Asia Minor, Equinox, Sheffield
 Willet, R., The Economics of Urbanism in the Roman East, Propylaeum, Heidelberg
 https://books.ub.uni-heidelberg.de/propylaeum/catalog/book/571?lang=en
 
+## Awards
+
+`2007`
+
+MA/Drs. "met veel genoegen" / cum laude, Leiden University
+
+`2020`
+
+Grant Senior Fellowship, ANAMED - Koc University, Istanbul
 
 ## References
 
