@@ -31,11 +31,11 @@ Junior Teacher Programming and Information Technology at CodeCafé
 - *Collecting data-sets (on Roman Villages) and designing and executing statistical analyses*
 
 `2017-2019`
-**Archalogical FieldLeader and Research Coordinator**, *KU Leuven, Researchgroup*, Leuven
+**Archaeological FieldLeader and Research Coordinator**, *KU Leuven, Researchgroup*, Leuven
 - *Spatial Analyses in ArcGIS / QGIS using Python queries*
 
 `2013-2017`
-**Post-doctoral researcherr**, *Leiden University, Institute for History*, Leiden
+**Post-doctoral researcher**, *Leiden University, Institute for History*, Leiden
 - *Researching spatial and chronological distribution patterns of archaeological Big Data sets*
 - *Designing databases in Access en SQL*
 - *Data-Analyse spatial patterns with Excel, R, QGIS*
