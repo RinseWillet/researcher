@@ -3,19 +3,9 @@ layout: default
 is_contact: true
 ---
 
-* Email: [foo@xyz.com](mailto:foo@xyz.com)
+* Email: [rinse.willet@code-cafe.nl](mailto:rinse.willet@code-cafe.nl)
 
-* Phone: [+91-123123](tel:+91-123123)
-
----
-
-## Mailing Address
-
-> 221B, Baker Street
->
-> London
->
-> United Kingdom
+* Phone: [+316-27356484](tel:+316-27356484)
 
 ---
 
