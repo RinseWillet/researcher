@@ -124,11 +124,11 @@ Junior Teacher Programming and Information Technology at CodeCafé
     <td></td>
  </tr>
  <tr>
-    <td>divers front-end libraries (React, Chart.JS, OpenLayer, Leaflet, MapBox, BootStrap)</td>
+    <td>diverse front-end libraries (React, Chart.JS, OpenLayer, Leaflet, MapBox, BootStrap)</td>
     <td></td>
  </tr>
   <tr>
-    <td>divers back-end libraries (Spring, Tomcat, GeoServer)</td>
+    <td>diverse back-end libraries (Spring, Tomcat, GeoServer)</td>
     <td></td>
  </tr>
    <tr>
