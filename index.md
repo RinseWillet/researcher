@@ -28,19 +28,19 @@ Junior Docent CodeCafé
 
 `2020`
 **Senior Fellow**, *ANAMED, Center for Anatolian Civilizations*, Istanbul
-- *Verzamelen data Romeinse dorpen en uitvoeren statistische analyses*
+- *Collecting data-sets (on Roman Villages) and designing and executing statistical analyses*
 
 `2017-2019`
-**Archeologisch Veldwerkleider en onderzoekscoördinator archeologische survey**, *KU Leuven, Onderzoeksgroep Archeologie*, Leuven
-- *Ruimtelijke analyses uitvoeren in ArcGIS en QGIS m.b.v. Python queries schrijven*
+**Archalogical FieldLeader and Research Coordinator**, *KU Leuven, Researchgroup*, Leuven
+- *Spatial Analyses in ArcGIS / QGIS using Python queries*
 
 `2013-2017`
-**Post-doctoraal onderzoeker**, *Universiteit Leiden, Instituut voor Geschiedenis*, Leiden
-- *Onderzoek naar ruimtelijke en chronologische verspreidingspatronen van archeologische datasets*
-- *Opzetten database in Access en SQL*
-- *Data-Analyse ruimtelijke verspreidingspatronen met Excel, R en QGIS*
-- *3D modellering*
-- *College geven en syllabus schrijven*
+**Post-doctoral researcherr**, *Leiden University, Institute for History*, Leiden
+- *Researching spatial and chronological distribution patterns of archaeological Big Data sets*
+- *Designing databases in Access en SQL*
+- *Data-Analyse spatial patterns with Excel, R, QGIS*
+- *3D modelling*
+- *Teaching classes and designing courses / writing syllabi*
 
 ## Skills
 <table>
