@@ -7,8 +7,6 @@ is_contact: true
 
 * Phone: [+316-27356484](tel:+316-27356484)
 
----
-
 ## Social
 
 1. [Facebook](#)
