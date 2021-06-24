@@ -50,6 +50,7 @@ Teacher Ancient History, Utrecht University
 - *Grading and motivating students
 
 
+
 `2020`
 **Full Stack Developer Trainee**, *Qien*, Utrecht
 - *Frontend development with JavaScript and React*
