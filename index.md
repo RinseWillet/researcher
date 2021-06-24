@@ -1,5 +1,5 @@
 ---
-Rinse Willet
+layout: default
 ---
 
 ## About Me
