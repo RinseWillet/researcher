@@ -11,7 +11,7 @@ Programmer, Teacher, Archaeologist, Scientist. I like to make the Past meet the 
 ## Occupation
 
 `2021 - Now`
-Junior Docent CodeCafé
+Junior Teacher Programming and Information Technology at CodeCafé
 - *Preparing classes and teaching in Java, HTML, JavaScript*
 - *Filming Youtube tutorials on e.g. setting up a Raspberry Pi for Network Attached Storage Device and Home Automationen van Youtube tutorials over o.a. het opzetten van een Raspberry Pi als NAS via SSH*
 - *Teaching about OpenLayers, Swing, Mapbox, Leaflet, Chart.JS and other libraries*
