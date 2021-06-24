@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="profile.jpg">
+<img class="profile-picture" src="foto.jpg">
 
 Programmer, Teacher, Archaeologist, Scientist. I like to make the Past meet the Future by researching and tinkering with anything technological. From old-school computers, to motorcycles, to Raspberry Pi's.
 
