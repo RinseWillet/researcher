@@ -4,7 +4,7 @@ Rinse Willet
 
 ## About Me
 
-<img class="profile-picture" src="image0.JPG">
+<img class="profile-picture" src="image0.jpeg">
 
 Programmer, Teacher, Archaeologist, Scientist. I like to make the Past meet the Future by researching and tinkering with anything technological. From old-school computers, to motorcycles, to Raspberry Pi's.
 
