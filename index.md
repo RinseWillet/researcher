@@ -35,6 +35,19 @@ Junior Teacher Programming and Information Technology at CodeCafé
 - *Filming Youtube tutorials on e.g. setting up a Raspberry Pi for Network Attached Storage Device and Home Automation using SSH*
 - *Teaching about OpenLayers, Swing, Mapbox, Leaflet, Chart.JS and other libraries*
 
+`2021 June - Now`
+Post-Doctoral Researcher Roman Archaeology, Radboud University, Nijmegen
+- *Designing and setting up research / collecting data
+- *Geographical Information Systems
+- *Guiding PhD's / Mentoring
+- *Lecturing
+
+`2021-June`
+Teacher Ancient History, Utrecht University
+- *Preparing interactive online seminars
+- *Designing courses
+- *Mentoring
+- *Grading and motivating students
 
 `2020 - 2020`
 **Full Stack Developer Trainee**, *Qien*, Utrecht
