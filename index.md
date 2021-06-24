@@ -4,20 +4,20 @@ Rinse Willet
 
 ## About Me
 
-<img class="profile-picture" src="foto.JPG">
+<img class="profile-picture" src="image0.JPG">
 
 Programmer, Teacher, Archaeologist, Scientist. I like to make the Past meet the Future by researching and tinkering with anything technological. From old-school computers, to motorcycles, to Raspberry Pi's.
 
 ## Education
 
-`2000-2007`
-**BA-MA Classical and Mediterranean Archaeology**, *Leiden University*
+`2020`
+**IT-Traineeship Java Full Stack Development**, *Qien B.V.*
 
 `2009-2012`
 **PhD Classical and Mediterranean Archaeology**, *Leuven University*
 
-`2020`
-**IT-Traineeship Java Full Stack Development**, *Qien B.V.*
+`2000-2007`
+**BA-MA Classical and Mediterranean Archaeology**, *Leiden University*
 
 ## Certification
 
