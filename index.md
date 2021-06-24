@@ -4,42 +4,113 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="sherlock.jpg">
+<img class="profile-picture" src="profile.jpg">
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Programmer, Teacher, Archaeologist, Scientist. I like to make the Past meet the Future by researching and tinkering with anything technological. From old-school computers, to motorcycles, to Raspberry Pi's.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
+## Occupation
 
-## Research Interest
+`2021 - Now`
+Junior Docent CodeCafé
+- *Preparing classes and teaching in Java, HTML, JavaScript*
+- *Filming Youtube tutorials on e.g. setting up a Raspberry Pi for Network Attached Storage Device and Home Automationen van Youtube tutorials over o.a. het opzetten van een Raspberry Pi als NAS via SSH*
+- *Teaching about OpenLayers, Swing, Mapbox, Leaflet, Chart.JS and other libraries*
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
 
-## Publications
+`2020 - 2020`
+**Full Stack Developer Trainee**, *Qien*, Utrecht
+- *Frontend development with JavaScript and React*
+- *Backend development with Java*
+- *OCA certification training*
+- *Scrum training*
+- *DevOps with Jenkins and Github Actions*
 
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
 
-## Typography
+`2020`
+**Senior Fellow**, *ANAMED, Center for Anatolian Civilizations*, Istanbul
+- *Verzamelen data Romeinse dorpen en uitvoeren statistische analyses*
 
-This is a [link](http://google.com). Something *italics* and something **bold**.
+`2017-2019`
+**Archeologisch Veldwerkleider en onderzoekscoördinator archeologische survey**, *KU Leuven, Onderzoeksgroep Archeologie*, Leuven
+- *Ruimtelijke analyses uitvoeren in ArcGIS en QGIS m.b.v. Python queries schrijven*
 
-Here is a table
+`2013-2017`
+**Post-doctoraal onderzoeker**, *Universiteit Leiden, Instituut voor Geschiedenis*, Leiden
+- *Onderzoek naar ruimtelijke en chronologische verspreidingspatronen van archeologische datasets*
+- *Opzetten database in Access en SQL*
+- *Data-Analyse ruimtelijke verspreidingspatronen met Excel, R en QGIS*
+- *3D modellering*
+- *College geven en syllabus schrijven*
 
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
+## Skills
+<table>
+ <tr>
+  <td><h3>Technical</h3></td>
+  <td><h3>Soft</h3></td>
+ </tr>
+ <tr>
+    <td>Java</td>
+    <td>Scrum</td>
+ </tr>
+  <tr>
+    <td>Python</td>
+    <td>Personal Leadership</td>
+ </tr>
+  <tr>
+    <td>Linux</td>
+    <td>Personal Coaching</td>
+ </tr>
+  <tr>
+    <td>Go</td>
+    <td>Lesson Planning</td>
+ </tr>
+  <tr>
+    <td>Javascript</td>
+    <td></td>
+ </tr>
+   <tr>
+    <td>Typescript</td>
+    <td></td>
+ </tr>
+ <tr>
+    <td>Hibernate</td>
+    <td></td>
+ </tr>
+ <tr>
+    <td>Maven</td>
+    <td></td>
+ </tr>
+ <tr>
+    <td>React</td>
+    <td></td>
+ </tr>
+ <tr>
+    <td>Git</td>
+    <td></td>
+ </tr>
+ <tr>
+    <td>Docker</td>
+    <td></td>
+ </tr>
+ <tr>
+    <td>Shell Scripts</td>
+    <td></td>
+ </tr>
+ <tr>
+    <td></td>
+    <td></td>
+ </tr>
+</table>
 
-Here is a horizontal rule
+## Certification
 
----
+`2020`
+Scrum PSM-1
 
-Here is a blockquote
+`2020`
+Oracle Certified Associate
 
-> To a great mind, nothing is little
 
 ## References
 
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
+* Jeroen Poblome: Faculty of Arts, KU Leuven
