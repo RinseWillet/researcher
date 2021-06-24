@@ -49,7 +49,7 @@ Teacher Ancient History, Utrecht University
 - *Mentoring
 - *Grading and motivating students
 
-
+<br>
 
 `2020`
 **Full Stack Developer Trainee**, *Qien*, Utrecht
