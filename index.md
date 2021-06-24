@@ -4,7 +4,7 @@ layout: default
 
 ## About Me
 
-<img class="profile-picture" src="foto.jpg">
+<img class="profile-picture" src="foto.JPG">
 
 Programmer, Teacher, Archaeologist, Scientist. I like to make the Past meet the Future by researching and tinkering with anything technological. From old-school computers, to motorcycles, to Raspberry Pi's.
 
@@ -53,35 +53,51 @@ Junior Docent CodeCafé
     <td>Scrum</td>
  </tr>
   <tr>
-    <td>Python</td>
-    <td>Personal Leadership</td>
+    <td>Spring</td>
+    <td>Coaching students</td>
  </tr>
   <tr>
-    <td>Linux</td>
-    <td>Personal Coaching</td>
+    <td>Hibernate</td>
+    <td>Mentoring</td>
  </tr>
   <tr>
-    <td>Go</td>
-    <td>Lesson Planning</td>
+    <td>Maven</td>
+    <td>Lesson/Course Planning</td>
  </tr>
   <tr>
-    <td>Javascript</td>
-    <td></td>
+    <td>Swing</td>
+    <td>Communicative</td>
  </tr>
    <tr>
-    <td>Typescript</td>
+    <td>JavaFX</td>
+    <td>Self-Improving</td>
+ </tr>
+ <tr>
+    <td>HTML5</td>
+    <td>Curious mind</td>
+ </tr>
+ <tr>
+    <td>CSS</td>
+    <td></td>
+ </tr> 
+ <tr>
+    <td>JavaScript</td>
     <td></td>
  </tr>
  <tr>
-    <td>Hibernate</td>
+    <td>SQL</td>
     <td></td>
  </tr>
  <tr>
-    <td>Maven</td>
+    <td>Statistical Software (Access, R)</td>
     <td></td>
  </tr>
  <tr>
-    <td>React</td>
+    <td>Linux</td>
+    <td></td>
+ </tr>
+ <tr>
+    <td>Python</td>
     <td></td>
  </tr>
  <tr>
@@ -89,15 +105,15 @@ Junior Docent CodeCafé
     <td></td>
  </tr>
  <tr>
-    <td>Docker</td>
+    <td>divers front-end libraries (React, Chart.JS, OpenLayer, Leaflet, MapBox, BootStrap)</td>
     <td></td>
  </tr>
- <tr>
-    <td>Shell Scripts</td>
+  <tr>
+    <td>divers back-end libraries (Spring, Tomcat, GeoServer)</td>
     <td></td>
  </tr>
- <tr>
-    <td></td>
+   <tr>
+    <td>GIS Software (QGIS, Grass, ArcGis)</td>
     <td></td>
  </tr>
 </table>
@@ -110,7 +126,23 @@ Scrum PSM-1
 `2020`
 Oracle Certified Associate
 
+## Publications (selection)
+
+`2014`
+Willet, R. Experiments with Diachronic Data Distribution Methods Applied to Eastern Sigillata A in the Eastern Mediterranean." HEROM. Journal on Hellenistic and Roman MAterial Culture 3: 39-69.
+
+`2016`
+Ottoni, C., Rasteiro, R., Willet, R. et al. "Comparing maternal genetic variation across two millenia reveals the demographic history of an ancient human population in southwest Turkey." Royal Society Open Science 3.
+
+`2020`
+Willet, R., The Geography of Roman Asia Minor, Equinox, Sheffield
+
+`2020`
+Willet, R., The Economics of Urbanism in the Roman East, Propylaeum, Heidelberg
+https://books.ub.uni-heidelberg.de/propylaeum/catalog/book/571?lang=en
+
 
 ## References
 
 * Jeroen Poblome: Faculty of Arts, KU Leuven
+* John Bintliff, Edinburgh University
