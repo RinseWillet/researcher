@@ -32,7 +32,7 @@ Oracle Certified Associate
 `2021 - Now`
 Junior Teacher Programming and Information Technology at CodeCafé
 - Teaching Python at the University of Applied Sciences in Utrecht
-- Preparing classes and teaching in Java, HTML, JavaScript
+- Creating online tutorials in Java, HTML, JavaScript
 - Filming Youtube tutorials on e.g. Raspberry Pi's (NAS or Home Automation), OpenLayers, Leaflet, Mapbox, Swing, Chart.JS and other libraries
 
 `2021 June - Now`
