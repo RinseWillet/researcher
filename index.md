@@ -30,19 +30,19 @@ Oracle Certified Associate
 ## Occupation
 
 `2021 - Now`
-Junior Teacher Programming and Information Technology at CodeCafé
-- Teaching Python at the University of Applied Sciences in Utrecht
+**Junior Teacher Programming and Information Technology** at *CodeCafé*
+- Teaching Python at the University of Applied Sciences in Utrecht**
 - Creating online tutorials in Java, HTML, JavaScript
 - Filming Youtube tutorials on e.g. Raspberry Pi's (NAS or Home Automation), OpenLayers, Leaflet, Mapbox, Swing, Chart.JS and other libraries
 
 `2021 June - Now`
-Post-Doctoral Researcher Roman Archaeology, Radboud University, Nijmegen
+**Post-Doctoral Researcher Roman Archaeology**, *Radboud University*, Nijmegen
 - Designing and setting up research / collecting data
 - Spatial/quantitative analysis with Geographical Information Systems, PostGis/PostGres
 - Developing a Web-GIS application to share research data and results
 
 `2021 - June`
-Teacher Ancient History, Utrecht University
+**Teacher Ancient History**, *Utrecht University*
 - Designing and teaching interactive online seminars
 - Grading, mentoring and motivating students
 
