@@ -44,10 +44,8 @@ Post-Doctoral Researcher Roman Archaeology, Radboud University, Nijmegen
 
 `2021 - June`
 Teacher Ancient History, Utrecht University
-- Preparing interactive online seminars
-- Designing courses
-- Mentoring
-- Grading and motivating students
+- Designing and teaching interactive online seminars
+- Grading, mentoring and motivating students
 
 <br>
 
