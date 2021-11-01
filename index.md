@@ -42,7 +42,7 @@ Post-Doctoral Researcher Roman Archaeology, Radboud University, Nijmegen
 - Developing a Web-GIS application to share research data and results
 - Guiding PhD's / Mentoring
 
-`2021-June`
+`2021 - June`
 Teacher Ancient History, Utrecht University
 - Preparing interactive online seminars
 - Designing courses
