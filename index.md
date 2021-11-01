@@ -32,9 +32,8 @@ Oracle Certified Associate
 `2021 - Now`
 Junior Teacher Programming and Information Technology at CodeCafé
 - Teaching Python at the University of Applied Sciences in Utrecht
-- Preparing classes and teaching in Java, HTML, JavaScript*
-- Filming Youtube tutorials on e.g. setting up a Raspberry Pi for Network Attached Storage Device and Home Automation using SSH*
-- Teaching about OpenLayers, Swing, Mapbox, Leaflet, Chart.JS and other libraries*
+- Preparing classes and teaching in Java, HTML, JavaScript
+- Filming Youtube tutorials on e.g. Raspberry Pi's (NAS or Home Automation), OpenLayers, Leaflet, Mapbox, Swing, Chart.JS and other libraries
 
 `2021 June - Now`
 Post-Doctoral Researcher Roman Archaeology, Radboud University, Nijmegen
