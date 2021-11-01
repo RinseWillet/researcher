@@ -31,25 +31,24 @@ Oracle Certified Associate
 
 `2021 - Now`
 Junior Teacher Programming and Information Technology at CodeCafé
-- *Teaching Python at the University of Applied Sciences in Utrecht
-- *Preparing classes and teaching in Java, HTML, JavaScript*
-- *Filming Youtube tutorials on e.g. setting up a Raspberry Pi for Network Attached Storage Device and Home Automation using SSH*
-- *Teaching about OpenLayers, Swing, Mapbox, Leaflet, Chart.JS and other libraries*
+- Teaching Python at the University of Applied Sciences in Utrecht
+- Preparing classes and teaching in Java, HTML, JavaScript*
+- Filming Youtube tutorials on e.g. setting up a Raspberry Pi for Network Attached Storage Device and Home Automation using SSH*
+- Teaching about OpenLayers, Swing, Mapbox, Leaflet, Chart.JS and other libraries*
 
 `2021 June - Now`
 Post-Doctoral Researcher Roman Archaeology, Radboud University, Nijmegen
-- *Designing and setting up research / collecting data
-- *Geographical Information Systems
-- *Developing a Web-GIS application to share research data and results
-- *Guiding PhD's / Mentoring
-- *Lecturing
+- Designing and setting up research / collecting data
+- Geographical Information Systems
+- Developing a Web-GIS application to share research data and results
+- Guiding PhD's / Mentoring
 
 `2021-June`
 Teacher Ancient History, Utrecht University
-- *Preparing interactive online seminars
-- *Designing courses
-- *Mentoring
-- *Grading and motivating students
+- Preparing interactive online seminars
+- Designing courses
+- Mentoring
+- Grading and motivating students
 
 <br>
 
@@ -141,11 +140,11 @@ Teacher Ancient History, Utrecht University
     <td></td>
  </tr>
  <tr>
-    <td>diverse front-end libraries (React, Chart.JS, OpenLayer, Leaflet, MapBox, BootStrap)</td>
+    <td>various front-end libraries (React, Chart.JS, OpenLayer, Leaflet, MapBox, BootStrap)</td>
     <td></td>
  </tr>
   <tr>
-    <td>diverse back-end libraries (Spring, Tomcat, GeoServer)</td>
+    <td>various back-end libraries (Spring, Tomcat, GeoServer)</td>
     <td></td>
  </tr>
    <tr>
