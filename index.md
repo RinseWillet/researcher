@@ -38,16 +38,13 @@ Junior Teacher Programming and Information Technology at CodeCafé
 `2021 June - Now`
 Post-Doctoral Researcher Roman Archaeology, Radboud University, Nijmegen
 - Designing and setting up research / collecting data
-- Geographical Information Systems
+- Spatial/quantitative analysis with Geographical Information Systems, PostGis/PostGres
 - Developing a Web-GIS application to share research data and results
-- Guiding PhD's / Mentoring
 
 `2021 - June`
 Teacher Ancient History, Utrecht University
 - Designing and teaching interactive online seminars
 - Grading, mentoring and motivating students
-
-<br>
 
 `2020`
 **Full Stack Developer Trainee**, *Qien*, Utrecht
@@ -56,7 +53,6 @@ Teacher Ancient History, Utrecht University
 - *OCA certification training*
 - *Scrum training*
 - *DevOps with Jenkins and Github Actions*
-
 
 `2020`
 **Senior Fellow**, *ANAMED, Center for Anatolian Civilizations*, Istanbul
